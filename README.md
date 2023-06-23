@@ -7,7 +7,7 @@
 ***One of the last solo projects from the course build from scratch by myself. The purpose of this project to perpetuate knowledge in the field of React hooks, forms and building reusable components.***
 </br>
 
-***I have added two displays to show both current and best times of players tries. Also tracking number off rolls that secured win. Desing of the dice has also been changed from numbers representing the number of pips on each die to a visual representation of the pips.***
+***I have added two displays to show both current and best times of players tries. Also tracking number off rolls that secured win. Original design of dice from Figma file has also been changed from numbers representing the number of pips on each die to actually show the pips on dice.***
 </br>
 
 ## ⚒️ Built with:
